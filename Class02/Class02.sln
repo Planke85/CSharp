@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapNumbers", "SwapNumbers\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasketballScoreCalculator", "BasketballScoreCalculator\BasketballScoreCalculator.csproj", "{AFEDA5B4-1EAD-491F-A6F5-0CCCFFDE287E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashMachine", "CashMachine\CashMachine.csproj", "{C9824220-74C4-4F07-BF18-FC206DFDC094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashMachine", "CashMachine\CashMachine.csproj", "{C9824220-74C4-4F07-BF18-FC206DFDC094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TikTak", "TikTak\TikTak.csproj", "{3A723150-C2B8-4E65-A61E-DB6938F2A61E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{C9824220-74C4-4F07-BF18-FC206DFDC094}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9824220-74C4-4F07-BF18-FC206DFDC094}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9824220-74C4-4F07-BF18-FC206DFDC094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A723150-C2B8-4E65-A61E-DB6938F2A61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A723150-C2B8-4E65-A61E-DB6938F2A61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A723150-C2B8-4E65-A61E-DB6938F2A61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A723150-C2B8-4E65-A61E-DB6938F2A61E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
