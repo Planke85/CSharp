@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise01", "Exercise01\Exercise01.csproj", "{1B60807F-3F94-4EEF-B3BB-42D6EAA6D33A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise01", "Exercise01\Exercise01.csproj", "{1B60807F-3F94-4EEF-B3BB-42D6EAA6D33A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise02", "Exercise02\Exercise02.csproj", "{A6EC98F7-6FE5-4689-A0B0-C05DEB41F797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise02", "Exercise02\Exercise02.csproj", "{A6EC98F7-6FE5-4689-A0B0-C05DEB41F797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise03", "Exercise03\Exercise03.csproj", "{8EDC23F6-B83F-47D0-BF58-E56F36B3952F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise03", "Exercise03\Exercise03.csproj", "{8EDC23F6-B83F-47D0-BF58-E56F36B3952F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise04", "Exercise04\Exercise04.csproj", "{83DBDD89-A7CC-4E52-8C89-089B527CE48D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise04", "Exercise04\Exercise04.csproj", "{83DBDD89-A7CC-4E52-8C89-089B527CE48D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise05", "Exercise05\Exercise05.csproj", "{2A90E625-06DE-4747-A8EA-176DF8EC4617}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise05", "Exercise05\Exercise05.csproj", "{2A90E625-06DE-4747-A8EA-176DF8EC4617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise06", "Exercise06\Exercise06.csproj", "{3EA1583F-D7A3-4EDE-A888-D6433EB5D630}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise06", "Exercise06\Exercise06.csproj", "{3EA1583F-D7A3-4EDE-A888-D6433EB5D630}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise07", "Exercise07\Exercise07.csproj", "{5511FCE2-28E8-434F-A834-64170E8D7052}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise07", "Exercise07\Exercise07.csproj", "{5511FCE2-28E8-434F-A834-64170E8D7052}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{9805805F-A44A-4115-BAE8-6157C22547D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{9805805F-A44A-4115-BAE8-6157C22547D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageNumber", "AverageNumber\AverageNumber.csproj", "{422115F6-EC53-4DE5-AD40-CA9E934E9E38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageNumber", "AverageNumber\AverageNumber.csproj", "{422115F6-EC53-4DE5-AD40-CA9E934E9E38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNumbers", "SwapNumbers\SwapNumbers.csproj", "{C5C20313-6AD2-47D2-BD5F-954ABF4E537C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapNumbers", "SwapNumbers\SwapNumbers.csproj", "{C5C20313-6AD2-47D2-BD5F-954ABF4E537C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballScoreCalculator", "BasketballScoreCalculator\BasketballScoreCalculator.csproj", "{AFEDA5B4-1EAD-491F-A6F5-0CCCFFDE287E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{C5C20313-6AD2-47D2-BD5F-954ABF4E537C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5C20313-6AD2-47D2-BD5F-954ABF4E537C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5C20313-6AD2-47D2-BD5F-954ABF4E537C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFEDA5B4-1EAD-491F-A6F5-0CCCFFDE287E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEDA5B4-1EAD-491F-A6F5-0CCCFFDE287E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEDA5B4-1EAD-491F-A6F5-0CCCFFDE287E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEDA5B4-1EAD-491F-A6F5-0CCCFFDE287E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
