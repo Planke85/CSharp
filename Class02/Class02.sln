@@ -29,7 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashMachine", "CashMachine\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TikTak", "TikTak\TikTak.csproj", "{3A723150-C2B8-4E65-A61E-DB6938F2A61E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConverter", "TimeConverter\TimeConverter.csproj", "{6B2338DA-9077-45E5-A7D9-4A6880E2CB1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConverter", "TimeConverter\TimeConverter.csproj", "{6B2338DA-9077-45E5-A7D9-4A6880E2CB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestNumber", "LargestNumber\LargestNumber.csproj", "{DF08DBE9-1525-4D3E-854E-631F04C73AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaysConverter", "DaysConverter\DaysConverter.csproj", "{1B2A399A-3C1F-4F57-A3A3-6676FF294C7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{6B2338DA-9077-45E5-A7D9-4A6880E2CB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B2338DA-9077-45E5-A7D9-4A6880E2CB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B2338DA-9077-45E5-A7D9-4A6880E2CB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF08DBE9-1525-4D3E-854E-631F04C73AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF08DBE9-1525-4D3E-854E-631F04C73AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF08DBE9-1525-4D3E-854E-631F04C73AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF08DBE9-1525-4D3E-854E-631F04C73AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2A399A-3C1F-4F57-A3A3-6676FF294C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2A399A-3C1F-4F57-A3A3-6676FF294C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2A399A-3C1F-4F57-A3A3-6676FF294C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2A399A-3C1F-4F57-A3A3-6676FF294C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
