@@ -11,7 +11,7 @@ namespace DaysConverter
 
             bool convertNumOfDays = int.TryParse(numberOfDays, out int daysNumber);
 
-            if (convertNumOfDays)
+            if (convertNumOfDays && daysNumber > 0)
             {
                 int year = daysNumber / 365;
                 int day = daysNumber % 365;
