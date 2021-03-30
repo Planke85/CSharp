@@ -33,6 +33,7 @@ namespace StudentGroup
             {
                 Console.WriteLine("Wrong input, try again!");
             }
+
         }
     }
 }
