@@ -33,11 +33,11 @@ namespace EmployeeApp
 
             Employee[] company = new Employee[5]
             {
-                new Contractor("Bill", "Bilsky", 40, 30, manager),
-                new Contractor("Mallory", "Monroe", 40, 30, manager),
-                new Manager("Scot", "Scotsky", 1000),
-                new Manager("Ben", "Bensky", 2000),
-                new SalesPerson("Jill", "Jillsky",1500)
+                new Contractor("Marko", "Markovic", 40, 30, manager),
+                new Contractor("Petar", "Petrovic", 40, 30, manager),
+                new Manager("Bob", "Bobsky", 1000),
+                new Manager("Pera", "Peric", 2000),
+                new SalesPerson("Sally", "Jones",1500)
             };
 
             CEO ceo = new CEO("Ron", "Ronsky", 1500, company);
